@@ -11,7 +11,7 @@
 
 - 🎓 **B.Tech – Computer Science**
 - 🧠 **Tech Head** at College **AI/ML Club**
-- 🤖 Passionate about **AI, ML, NLP & Cloud Computing**
+- 🤖 Passionate about **AI, ML, NLP, Ethical Hacking & Cloud Computing**
 - ☁️ Exploring **AWS, DevOps & Scalable Systems**
 - 🛠️ Love building **real-world, market-ready projects**
 - 📚 Strong in **DBMS, OS, CN, Software Engineering**
@@ -23,12 +23,25 @@
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 📊 Data Science & Data Analytics
+![Data Science](https://img.shields.io/badge/Data%20Science-6A1B9A?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0277BD?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4DB6AC?style=for-the-badge)
 
 ### 🤖 AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ff0066?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-4caf50?style=for-the-badge)
+
+### 🛡️ Cybersecurity & Ethical Hacking
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-black?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-red?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -37,34 +50,33 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayankgupta1754&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankgupta1754&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankgupta1754&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (Animation)
 
-![snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Mayankgupta1754Mayankgupta1754/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 Achievements & Badges
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Mayankgupta1754?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Mayankgupta1754?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Mayankgupta1754&style=for-the-badge)
 
 ---
 
