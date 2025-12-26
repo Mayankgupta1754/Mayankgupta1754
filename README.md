@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
-<h3 align="center">AI/ML Enthusiast| Data Science| Ethical Hacking | B.Tech CSE Student</h3>
+<h3 align="center">AI/ML Enthusiast| Data Scientist| Ethical Hacker | B.Tech CSE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Enthusiast;Tech+Head+@+AI/ML+Club;Cloud+%26+AWS+Learner;Ethical+Hacker;Building+Real+World+Projects&center=true&width=500&height=45">
