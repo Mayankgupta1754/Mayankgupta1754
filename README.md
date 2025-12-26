@@ -65,9 +65,9 @@
 </p>
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake 
 
-![snake animation](https://raw.githubusercontent.com/Mayankgupta1754Mayankgupta1754/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/mayankgupta1754/mayankgupta1754/output/github-contribution-grid-snake.svg)
 
 ---
 
