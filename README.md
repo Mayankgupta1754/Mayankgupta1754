@@ -56,14 +56,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankgupta1754&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankgupta1754&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankgupta1754&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankgupta1754&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankgupta1754&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgupta1754&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake (Animation)
