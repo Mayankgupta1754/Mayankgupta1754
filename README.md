@@ -56,23 +56,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-phi-nine-46.vercel.app/api?username=mayankgupta1754&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=mayankgupta1754&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats-phi-nine-46.vercel.app/api?username=mayankgupta1754&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-phi-nine-46.vercel.app/api/top-langs/?username=mayankgupta1754&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-phi-nine-46.vercel.app/api/top-langs/?username=mayankgupta1754&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
