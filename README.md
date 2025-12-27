@@ -119,9 +119,10 @@
   <a href="https://www.linkedin.com/in/mayank-gupta-218636253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:themayankgupta17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=themayankgupta17@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
 </p>
 
 ---
