@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech – Computer Science**
-- 🧠 **Tech Head** at College **AI/ML Club**
-- 🤖 Passionate about **AI, ML, NLP, Ethical Hacking & Cloud Computing**
+- 🎓 **B.Tech – Computer Science @VIT Vellore**
+- 🧠 **Tech Head** at VIT **AI/ML Club**
+- 🤖 Passionate about **AI, ML, Data Science, Data Analytics, NLP, Ethical Hacking & Cloud Computing**
 - ☁️ Exploring **AWS, DevOps & Scalable Systems**
 - 🛠️ Love building **real-world, market-ready projects**
 - 📚 Strong in **DBMS, OS, CN, Software Engineering**
@@ -107,8 +107,9 @@
 
 ## 🌱 Currently Learning
 - Advanced **Machine Learning**
-- **AWS Architecture**
-- **System Design**
+- **Ethical Hacking**
+- **Edge Intelligence**
+- **IOT**
 - **Scalable AI Systems**
 
 ---
@@ -128,5 +129,5 @@
 ---
 
 <p align="center">
-  <i>“Turning ideas into intelligent systems 🚀”</i>
+  <i>“I code. Sometimes it works.”</i>
 </p>
