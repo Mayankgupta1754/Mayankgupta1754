@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
-<h3 align="center">AI/ML Enthusiast| Data Scientist| Ethical Hacker | B.Tech CSE Student</h3>
+<h5 align="center">Data Science, Analytics, Machine Learning and AI enthusiast pursuing B.Tech in Computer Science at VIT Vellore. Skilled in Python, ML, and statistical analysis, with hands-on experience delivering 25+ AI/ML projects using real-world data. Experienced in EDA, feature engineering, predictive modeling, and deploying ML into web and IoT systems. Proven leadership through mentoring 250+ students, leading workshops, and winning hackathons.</h5>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Enthusiast;Tech+Head+@+AI/ML+Club;Data+%26+Scientist;Ethical+Hacker;Building+Real+World+Projects&center=true&width=500&height=45">
