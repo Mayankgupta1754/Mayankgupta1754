@@ -142,14 +142,7 @@ An AI-powered data analyst that allows users to upload datasets and perform natu
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankgupta1754&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankgupta1754&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -159,13 +152,7 @@ An AI-powered data analyst that allows users to upload datasets and perform natu
 
 ---
 
-## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankgupta1754&theme=tokyo-night&hide_border=true" width="95%">
-</p>
-
----
 
 ## 🏆 GitHub Profile
 
