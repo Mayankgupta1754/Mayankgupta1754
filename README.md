@@ -27,229 +27,57 @@ AI/ML Engineer | Generative AI | LLM Engineering | RAG | Agentic AI
 * 💡 I enjoy turning AI concepts into **working, deployable applications**
 
 ---
+## 🛠️ Tech Stack
 
-## 🧠 Generative AI & LLM Engineering
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖 AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8E44AD?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0066?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![LLM](https://img.shields.io/badge/Large%20Language%20Models-FF6F00?style=for-the-badge)
-![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-6A1B9A?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-1565C0?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00897B?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7B1FA2?style=for-the-badge)
-![Multi Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-3949AB?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-E65100?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00838F?style=for-the-badge)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-455A64?style=for-the-badge)
-![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-C62828?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-5E35B1?style=for-the-badge)
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-3949AB?style=for-the-badge)
+![Multi Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-7B1FA2?style=for-the-badge)
+![Model Fine Tuning](https://img.shields.io/badge/Model%20Fine--Tuning-6A1B9A?style=for-the-badge)
 
----
-
-## 🔎 RAG & Retrieval
-
-![Retrieval Augmented Generation](https://img.shields.io/badge/Retrieval--Augmented%20Generation-1565C0?style=for-the-badge)
-![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-283593?style=for-the-badge)
-![Advanced RAG](https://img.shields.io/badge/Advanced%20RAG-3949AB?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-00838F?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-4527A0?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-6A1B9A?style=for-the-badge)
-![Text Embeddings](https://img.shields.io/badge/Text%20Embeddings-7B1FA2?style=for-the-badge)
-![Document Processing](https://img.shields.io/badge/Document%20Processing-546E7A?style=for-the-badge)
-![Semantic Chunking](https://img.shields.io/badge/Semantic%20Chunking-2E7D32?style=for-the-badge)
-![Query Rewriting](https://img.shields.io/badge/Query%20Rewriting-0277BD?style=for-the-badge)
-![Query Expansion](https://img.shields.io/badge/Query%20Expansion-00695C?style=for-the-badge)
-![Reranking](https://img.shields.io/badge/Reranking-5E35B1?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-37474F?style=for-the-badge)
-![Knowledge Retrieval](https://img.shields.io/badge/Knowledge%20Retrieval-00838F?style=for-the-badge)
-![Graph RAG](https://img.shields.io/badge/Graph%20RAG-00695C?style=for-the-badge)
-
----
-
-## 🤖 AI Agents & Orchestration
-
-![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-3949AB?style=for-the-badge)
-![Agent Workflows](https://img.shields.io/badge/Agent%20Workflows-283593?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool%20Calling-00695C?style=for-the-badge)
-![Function Calling](https://img.shields.io/badge/Function%20Calling-00838F?style=for-the-badge)
-![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol%20\(MCP\)-455A64?style=for-the-badge)
-![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?style=for-the-badge)
+### 🧩 AI Frameworks & Tools
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-111827?style=for-the-badge)
-![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-1565C0?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
-
----
-
-## 🧠 LLM Fine-Tuning & Open Source AI
-
-![LLM Fine Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-6A1B9A?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT-4527A0?style=for-the-badge)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-455A64?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LoRA](https://img.shields.io/badge/LoRA-5E35B1?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-7B1FA2?style=for-the-badge)
-![Quantization](https://img.shields.io/badge/Quantization-37474F?style=for-the-badge)
-![Supervised Fine Tuning](https://img.shields.io/badge/Supervised%20Fine--Tuning-283593?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFCC4D?style=for-the-badge)
-![Datasets](https://img.shields.io/badge/Hugging%20Face%20Datasets-FFD21E?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-455A64?style=for-the-badge)
-![TRL](https://img.shields.io/badge/TRL-FF6F00?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Open Source LLMs](https://img.shields.io/badge/Open--Source%20LLMs-1565C0?style=for-the-badge)
-![Local LLMs](https://img.shields.io/badge/Local%20LLMs-37474F?style=for-the-badge)
 
----
-
-## 🧠 NLP & Deep Learning
-
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-00838F?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0066?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6A1B9A?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
-![Attention](https://img.shields.io/badge/Attention%20Mechanisms-3949AB?style=for-the-badge)
-![Sequence to Sequence](https://img.shields.io/badge/Sequence--to--Sequence-283593?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-1565C0?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-00838F?style=for-the-badge)
-![GRU](https://img.shields.io/badge/GRU-00695C?style=for-the-badge)
-![Text Classification](https://img.shields.io/badge/Text%20Classification-4527A0?style=for-the-badge)
-![Text Generation](https://img.shields.io/badge/Text%20Generation-7B1FA2?style=for-the-badge)
-![Tokenization](https://img.shields.io/badge/Tokenization-5E35B1?style=for-the-badge)
-![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-0277BD?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-455A64?style=for-the-badge)
-![Multimodal Machine Learning](https://img.shields.io/badge/Multimodal%20Machine%20Learning-00695C?style=for-the-badge)
-
----
-
-## 📊 Machine Learning & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge)
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-1565C0?style=for-the-badge)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-00838F?style=for-the-badge)
-![Regression](https://img.shields.io/badge/Regression-3949AB?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-7B1FA2?style=for-the-badge)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-1565C0?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-00838F?style=for-the-badge)
-![Decision Trees](https://img.shields.io/badge/Decision%20Trees-2E7D32?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-388E3C?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-00695C?style=for-the-badge)
-![SVM](https://img.shields.io/badge/Support%20Vector%20Machines-283593?style=for-the-badge)
-![KNN](https://img.shields.io/badge/K--Nearest%20Neighbors-4527A0?style=for-the-badge)
-![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-5E35B1?style=for-the-badge)
-![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-6A1B9A?style=for-the-badge)
-![Clustering](https://img.shields.io/badge/Clustering-0277BD?style=for-the-badge)
-![K Means](https://img.shields.io/badge/K--Means-00838F?style=for-the-badge)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-00695C?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-37474F?style=for-the-badge)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-C62828?style=for-the-badge)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-5E35B1?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-3949AB?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8E24AA?style=for-the-badge)
-![Feature Selection](https://img.shields.io/badge/Feature%20Selection-6A1B9A?style=for-the-badge)
-![Cross Validation](https://img.shields.io/badge/Cross--Validation-283593?style=for-the-badge)
-![Ensemble Learning](https://img.shields.io/badge/Ensemble%20Learning-1565C0?style=for-the-badge)
-
----
-
-## 🐍 Programming & Data Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-6A1B9A?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-3949AB?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-00838F?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-2E7D32?style=for-the-badge)
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-0288D1?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-2E7D32?style=for-the-badge)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-6D4C41?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-5E35B1?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00838F?style=for-the-badge)
-![Probability](https://img.shields.io/badge/Probability-4527A0?style=for-the-badge)
-![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-6A1B9A?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8E24AA?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-3949AB?style=for-the-badge)
 
----
+### 📈 Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4DB6AC?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 💻 Development & APIs
-
-![Software Development](https://img.shields.io/badge/Software%20Development-1565C0?style=for-the-badge)
-![Python Development](https://img.shields.io/badge/Python%20Development-3776AB?style=for-the-badge)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-37474F?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-00838F?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-00695C?style=for-the-badge)
-![Async Programming](https://img.shields.io/badge/Async%20Programming-4527A0?style=for-the-badge)
-![Concurrent Programming](https://img.shields.io/badge/Concurrent%20Programming-5E35B1?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+### 💻 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
-
-## ☁️ Cloud & MLOps
-
-![MLOps](https://img.shields.io/badge/MLOps-37474F?style=for-the-badge)
-![Model Deployment](https://img.shields.io/badge/Model%20Deployment-1565C0?style=for-the-badge)
-![Model Serving](https://img.shields.io/badge/Model%20Serving-00838F?style=for-the-badge)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-00695C?style=for-the-badge)
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-4527A0?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0277BD?style=for-the-badge)
-![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Experiment Tracking](https://img.shields.io/badge/Experiment%20Tracking-6A1B9A?style=for-the-badge)
-
----
-
-## 📊 Data Analytics & Business Intelligence
-
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1565C0?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4527A0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-00838F?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-3949AB?style=for-the-badge)
-![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-00695C?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Analytics](https://img.shields.io/badge/SQL%20Analytics-1565C0?style=for-the-badge)
-
----
-
-## 👁️ Computer Vision & IoT
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-455A64?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![IoT](https://img.shields.io/badge/Internet%20of%20Things-00979D?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
-![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-546E7A?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-37474F?style=for-the-badge)
-![Real Time Systems](https://img.shields.io/badge/Real--Time%20Systems-00695C?style=for-the-badge)
-
----
-
-## 🛡️ Cybersecurity & Networking
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-212121?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)
-
----
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📚 Featured AI Projects
 
