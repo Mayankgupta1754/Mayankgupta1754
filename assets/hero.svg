@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-labelledby="t d">
+  <title id="t">The AI Group Chat: who is Mayank Gupta?</title>
+  <desc id="d">GPT, Claude, Gemini and DeepSeek discuss Mayank's work, then a judge returns the verdict: Mayank Gupta, AI engineer who builds LLM systems that reason, cross-check and ship.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .ink { fill: #EDE7FF; }
+    .muted { fill: #9C93C2; }
+    .in { opacity: 0; animation: pop .45s cubic-bezier(.2,.9,.3,1.3) forwards; transform-box: fill-box; transform-origin: 0% 50%; }
+    .in.r { transform-origin: 100% 50%; }
+    .typing { opacity: 0; animation: typing .6s linear forwards; }
+    .dot { animation: bounce .6s ease-in-out infinite; transform-box: fill-box; }
+    .dot:nth-child(2) { animation-delay: .1s; } .dot:nth-child(3) { animation-delay: .2s; }
+    .verdict { opacity: 0; animation: verdict .7s cubic-bezier(.2,.9,.3,1.15) 5.1s forwards; transform-box: fill-box; transform-origin: 50% 100%; }
+    .rise { opacity: 0; animation: rise .5s ease-out forwards; }
+    .stamp { opacity: 0; animation: stamp .45s cubic-bezier(.3,1.6,.5,1) 6.0s forwards; transform-box: fill-box; transform-origin: 50% 50%; }
+    .live { animation: live 1.6s ease-in-out infinite; }
+    @keyframes pop { from { opacity: 0; transform: translateY(10px) scale(.92); } to { opacity: 1; transform: none; } }
+    @keyframes typing { 0%, 99% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    @keyframes verdict { from { opacity: 0; transform: translateY(40px) scale(.97); } to { opacity: 1; transform: none; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes stamp { from { opacity: 0; transform: scale(2.2) rotate(-14deg); } to { opacity: 1; transform: rotate(-6deg); } }
+    @keyframes live { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before { animation: none !important; }
+      .in, .verdict, .rise { opacity: 1; }
+      .stamp { opacity: 1; transform: rotate(-6deg); }
+      .typing { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#211A3D"/>
+      <stop offset="1" stop-color="#17122C"/>
+    </linearGradient>
+    <pattern id="grain" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <!-- window -->
+  <rect width="900" height="600" rx="22" fill="url(#bg)"/>
+  <rect width="900" height="600" rx="22" fill="url(#grain)"/>
+
+  <!-- header -->
+  <rect width="900" height="64" rx="22" fill="#2A2150"/>
+  <rect y="40" width="900" height="24" fill="#2A2150"/>
+  <g transform="translate(28 32)">
+    <circle cx="0"  cy="0" r="14" fill="#7FE0C2" stroke="#2A2150" stroke-width="3"/>
+    <circle cx="18" cy="0" r="14" fill="#F7B58C" stroke="#2A2150" stroke-width="3"/>
+    <circle cx="36" cy="0" r="14" fill="#8FB3FF" stroke="#2A2150" stroke-width="3"/>
+    <circle cx="54" cy="0" r="14" fill="#B79CFF" stroke="#2A2150" stroke-width="3"/>
+    <circle cx="72" cy="0" r="14" fill="#FFD166" stroke="#2A2150" stroke-width="3"/>
+    <text x="72" y="5" font-size="13" font-weight="800" fill="#2A1F05" text-anchor="middle">J</text>
+  </g>
+  <text x="124" y="29" font-size="17" font-weight="700" class="ink">The AI Group Chat</text>
+  <text x="124" y="48" font-size="12.5" class="muted">GPT, Claude, Gemini, DeepSeek and a judge</text>
+  <circle cx="790" cy="32" r="5" fill="#7FE0C2" class="live"/>
+  <text x="802" y="37" font-size="13" fill="#7FE0C2">live</text>
+
+  <!-- visitor question -->
+  <g class="in r" style="animation-delay:.2s">
+    <rect x="664" y="82" width="212" height="38" rx="19" fill="#FFD166"/>
+    <text x="770" y="106" font-size="15" font-weight="600" fill="#2A1F05" text-anchor="middle">who is mayank gupta?</text>
+  </g>
+
+  <!-- message 1: GPT -->
+  <g class="typing" style="animation-delay:.5s"><g transform="translate(74 150)">
+    <rect width="58" height="30" rx="15" fill="#2E2556"/>
+    <circle class="dot" cx="17" cy="15" r="4" fill="#7FE0C2"/><circle class="dot" cx="29" cy="15" r="4" fill="#7FE0C2"/><circle class="dot" cx="41" cy="15" r="4" fill="#7FE0C2"/>
+  </g></g>
+  <g class="in" style="animation-delay:1.1s">
+    <circle cx="44" cy="166" r="17" fill="#7FE0C2"/>
+    <text x="44" y="171" font-size="13" font-weight="800" fill="#0F2A22" text-anchor="middle">G</text>
+    <text x="76" y="142" font-size="12" font-weight="700" fill="#7FE0C2">GPT</text>
+    <rect x="74" y="148" width="528" height="38" rx="14" fill="#2E2556"/>
+    <text x="92" y="172" font-size="15" class="ink">Read his repos. Multi-agent pipelines, RAG and LangGraph everywhere.</text>
+  </g>
+
+  <!-- message 2: Claude -->
+  <g class="typing" style="animation-delay:1.5s"><g transform="translate(74 216)">
+    <rect width="58" height="30" rx="15" fill="#2E2556"/>
+    <circle class="dot" cx="17" cy="15" r="4" fill="#F7B58C"/><circle class="dot" cx="29" cy="15" r="4" fill="#F7B58C"/><circle class="dot" cx="41" cy="15" r="4" fill="#F7B58C"/>
+  </g></g>
+  <g class="in" style="animation-delay:2.1s">
+    <circle cx="44" cy="232" r="17" fill="#F7B58C"/>
+    <text x="44" y="237" font-size="13" font-weight="800" fill="#3A1A08" text-anchor="middle">C</text>
+    <text x="76" y="208" font-size="12" font-weight="700" fill="#F7B58C">Claude</text>
+    <rect x="74" y="214" width="560" height="38" rx="14" fill="#2E2556"/>
+    <text x="92" y="238" font-size="15" class="ink">And he ships. This very chat app runs in production with paying users.</text>
+  </g>
+
+  <!-- message 3: Gemini -->
+  <g class="typing" style="animation-delay:2.5s"><g transform="translate(74 282)">
+    <rect width="58" height="30" rx="15" fill="#2E2556"/>
+    <circle class="dot" cx="17" cy="15" r="4" fill="#8FB3FF"/><circle class="dot" cx="29" cy="15" r="4" fill="#8FB3FF"/><circle class="dot" cx="41" cy="15" r="4" fill="#8FB3FF"/>
+  </g></g>
+  <g class="in" style="animation-delay:3.1s">
+    <circle cx="44" cy="298" r="17" fill="#8FB3FF"/>
+    <text x="44" y="303" font-size="12" font-weight="800" fill="#0D1B3D" text-anchor="middle">Ge</text>
+    <text x="76" y="274" font-size="12" font-weight="700" fill="#8FB3FF">Gemini</text>
+    <rect x="74" y="280" width="566" height="38" rx="14" fill="#2E2556"/>
+    <text x="92" y="304" font-size="15" class="ink">Ran the AI/ML Club at VIT as technical head. 250+ students mentored.</text>
+  </g>
+
+  <!-- message 4: DeepSeek -->
+  <g class="typing" style="animation-delay:3.5s"><g transform="translate(74 348)">
+    <rect width="58" height="30" rx="15" fill="#2E2556"/>
+    <circle class="dot" cx="17" cy="15" r="4" fill="#B79CFF"/><circle class="dot" cx="29" cy="15" r="4" fill="#B79CFF"/><circle class="dot" cx="41" cy="15" r="4" fill="#B79CFF"/>
+  </g></g>
+  <g class="in" style="animation-delay:4.1s">
+    <circle cx="44" cy="364" r="17" fill="#B79CFF"/>
+    <text x="44" y="369" font-size="13" font-weight="800" fill="#22124A" text-anchor="middle">D</text>
+    <text x="76" y="340" font-size="12" font-weight="700" fill="#B79CFF">DeepSeek</text>
+    <rect x="74" y="346" width="480" height="38" rx="14" fill="#2E2556"/>
+    <text x="92" y="370" font-size="15" class="ink">1st place and best pitch at Algo Arena. My vote: hire.</text>
+  </g>
+
+  <!-- judge typing -->
+  <g class="typing" style="animation-delay:4.5s"><g transform="translate(421 410)">
+    <rect width="58" height="30" rx="15" fill="#3A2F12"/>
+    <circle class="dot" cx="17" cy="15" r="4" fill="#FFD166"/><circle class="dot" cx="29" cy="15" r="4" fill="#FFD166"/><circle class="dot" cx="41" cy="15" r="4" fill="#FFD166"/>
+  </g></g>
+
+  <!-- verdict -->
+  <g class="verdict">
+    <rect x="24" y="404" width="852" height="174" rx="20" fill="#FFD166"/>
+    <text x="56" y="440" font-size="13" font-weight="700" fill="#6B4F00">Judge</text>
+    <text x="102" y="440" font-size="13" fill="#6B4F00">verdict reached, 4 of 4 agree</text>
+    <text x="54" y="512" font-size="64" font-weight="900" letter-spacing="-2" fill="#1B1530" class="rise" style="animation-delay:5.4s">Mayank Gupta</text>
+    <text x="56" y="552" font-size="18" fill="#3B2E10" class="rise" style="animation-delay:5.6s">AI engineer. I build LLM systems that reason, cross-check and ship.</text>
+  </g>
+  <g class="stamp">
+    <rect x="690" y="440" width="160" height="62" rx="10" fill="none" stroke="#1B1530" stroke-width="4"/>
+    <text x="770" y="468" font-size="13" font-weight="800" fill="#1B1530" text-anchor="middle" letter-spacing="1">CONSENSUS</text>
+    <text x="770" y="491" font-size="17" font-weight="900" fill="#1B1530" text-anchor="middle">4 / 4</text>
+  </g>
+</svg>

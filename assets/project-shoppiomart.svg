@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="320" viewBox="0 0 440 320" role="img" aria-labelledby="t d">
+  <title id="t">Shoppiomart Product Finder</title>
+  <desc id="d">Scout searches Google Shopping, Writer drafts listing copy, Notifier sends product names to your phone.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .ink { fill: #EDE7FF; } .muted { fill: #9C93C2; }
+    .flow { stroke-dasharray: 3 7; animation: flow 1.4s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#6E63A3"/></marker></defs>
+  <rect width="440" height="320" rx="22" fill="#1D1735"/>
+  <text x="36" y="66" font-size="24" font-weight="800" class="ink" letter-spacing="-.4">Shoppiomart Product Finder</text>
+  <text x="36" y="102" font-size="14.5" class="muted">Three CrewAI agents find real products,</text><text x="36" y="124" font-size="14.5" class="muted">write listing copy and ping your phone.</text>
+  <path d="M132 210 L164 210" stroke="#6E63A3" stroke-width="2" marker-end="url(#a)" class="flow"/><path d="M272 210 L304 210" stroke="#6E63A3" stroke-width="2" marker-end="url(#a)" class="flow"/><rect x="28.0" y="193.0" width="104" height="34" rx="17.0" fill="#7FE0C2"/><text x="80" y="215" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Scout</text><text x="80" y="250" font-size="12.5" class="muted" text-anchor="middle">Google Shopping</text><rect x="168.0" y="193.0" width="104" height="34" rx="17.0" fill="#8FB3FF"/><text x="220" y="215" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Writer</text><text x="220" y="250" font-size="12.5" class="muted" text-anchor="middle">listing copy</text><rect x="308.0" y="193.0" width="104" height="34" rx="17.0" fill="#F7B58C"/><text x="360" y="215" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Notifier</text><text x="360" y="250" font-size="12.5" class="muted" text-anchor="middle">Pushover alert</text>
+  <text x="36" y="292" font-size="12.5" class="muted">CrewAI, tool calling, sequential agents</text>
+</svg>

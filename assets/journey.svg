@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="t d">
+  <title id="t">Training log: Mayank's journey as a falling loss curve</title>
+  <desc id="d">Checkpoints in order: joined VIT Vellore for B.Tech CSE; first ML models; technical head of the AI/ML Club; mentored 250+ students; 1st place and best pitch at Algo Arena; shipped The AI Group Chat to users.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .muted { fill: #9C93C2; }
+    .line { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.6s cubic-bezier(.4,0,.6,1) .3s forwards; }
+    .area { opacity: 0; animation: fade 1s ease-out 2.6s forwards; }
+    .cp { opacity: 0; animation: fade .35s ease-out forwards; }
+    .ring { transform-box: fill-box; transform-origin: 50% 50%; animation: ping 1.8s ease-out 3.2s infinite; opacity: 0; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes ping { 0% { opacity: .9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .line { stroke-dashoffset: 0; } .area, .cp { opacity: 1; } }
+  </style>
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7FE0C2" stop-opacity=".22"/><stop offset="1" stop-color="#7FE0C2" stop-opacity="0"/></linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B79CFF"/><stop offset=".55" stop-color="#7FE0C2"/><stop offset="1" stop-color="#FFD166"/></linearGradient>
+  </defs>
+  <rect width="900" height="330" rx="22" fill="#1D1735"/>
+  <text x="44" y="46" font-size="13" class="muted">Training log</text>
+  <text x="856" y="46" font-size="13" class="muted" text-anchor="end">loss over time, lower is better</text>
+  <line x1="60" y1="246" x2="860" y2="246" stroke="#4A3F78"/>
+  <path d="M60.0 80.5 L64.0 84.8 L68.0 88.3 L72.0 91.1 L76.0 93.3 L80.0 95.2 L84.0 96.8 L88.0 98.6 L92.0 100.6 L96.0 102.9 L100.0 105.4 L104.0 108.1 L108.0 110.7 L112.0 113.0 L116.0 114.8 L120.0 116.0 L124.0 116.5 L128.0 116.4 L132.0 116.0 L136.0 115.6 L140.0 115.4 L144.0 115.6 L148.0 116.5 L152.0 118.1 L156.0 120.3 L160.0 123.1 L164.0 126.1 L168.0 129.2 L172.0 132.0 L176.0 134.6 L180.0 136.7 L184.0 138.4 L188.0 139.9 L192.0 141.3 L196.0 142.9 L200.0 144.7 L204.0 146.9 L208.0 149.5 L212.0 152.3 L216.0 155.2 L220.0 157.9 L224.0 160.3 L228.0 162.0 L232.0 163.1 L236.0 163.5 L240.0 163.4 L244.0 162.8 L248.0 162.2 L252.0 161.6 L256.0 161.4 L260.0 161.5 L264.0 162.1 L268.0 163.2 L272.0 164.5 L276.0 165.8 L280.0 167.1 L284.0 168.2 L288.0 169.0 L292.0 169.6 L296.0 169.9 L300.0 170.3 L304.0 170.7 L308.0 171.5 L312.0 172.8 L316.0 174.5 L320.0 176.7 L324.0 179.1 L328.0 181.7 L332.0 184.2 L336.0 186.3 L340.0 188.1 L344.0 189.3 L348.0 190.0 L352.0 190.3 L356.0 190.3 L360.0 190.2 L364.0 190.2 L368.0 190.4 L372.0 190.8 L376.0 191.4 L380.0 192.2 L384.0 193.0 L388.0 193.8 L392.0 194.2 L396.0 194.4 L400.0 194.3 L404.0 193.9 L408.0 193.3 L412.0 192.8 L416.0 192.5 L420.0 192.5 L424.0 192.9 L428.0 193.8 L432.0 195.0 L436.0 196.6 L440.0 198.2 L444.0 199.9 L448.0 201.4 L452.0 202.6 L456.0 203.5 L460.0 204.1 L464.0 204.6 L468.0 204.9 L472.0 205.2 L476.0 205.7 L480.0 206.4 L484.0 207.2 L488.0 208.2 L492.0 209.2 L496.0 210.1 L500.0 210.8 L504.0 211.2 L508.0 211.3 L512.0 211.1 L516.0 210.6 L520.0 210.0 L524.0 209.4 L528.0 208.8 L532.0 208.5 L536.0 208.5 L540.0 208.8 L544.0 209.3 L548.0 210.0 L552.0 210.8 L556.0 211.6 L560.0 212.2 L564.0 212.7 L568.0 213.0 L572.0 213.2 L576.0 213.3 L580.0 213.5 L584.0 213.9 L588.0 214.4 L592.0 215.0 L596.0 215.9 L600.0 216.9 L604.0 217.8 L608.0 218.7 L612.0 219.5 L616.0 220.0 L620.0 220.2 L624.0 220.2 L628.0 220.1 L632.0 219.8 L636.0 219.5 L640.0 219.3 L644.0 219.2 L648.0 219.2 L652.0 219.4 L656.0 219.7 L660.0 220.0 L664.0 220.3 L668.0 220.5 L672.0 220.7 L676.0 220.7 L680.0 220.7 L684.0 220.6 L688.0 220.5 L692.0 220.5 L696.0 220.6 L700.0 220.8 L704.0 221.2 L708.0 221.7 L712.0 222.3 L716.0 222.9 L720.0 223.5 L724.0 224.0 L728.0 224.3 L732.0 224.5 L736.0 224.7 L740.0 224.7 L744.0 224.7 L748.0 224.8 L752.0 224.8 L756.0 224.9 L760.0 225.1 L764.0 225.3 L768.0 225.5 L772.0 225.7 L776.0 225.9 L780.0 226.0 L784.0 226.1 L788.0 226.1 L792.0 226.1 L796.0 226.0 L800.0 226.0 L804.0 226.0 L808.0 226.1 L812.0 226.3 L816.0 226.4 L820.0 226.6 L824.0 226.8 L828.0 227.0 L832.0 227.2 L836.0 227.4 L840.0 227.5 L844.0 227.6 L848.0 227.7 L852.0 227.8 L856.0 227.9 L860.0 228.0 L860 236 L60 236 Z" fill="url(#fill)" class="area"/>
+  <path d="M60.0 80.5 L64.0 84.8 L68.0 88.3 L72.0 91.1 L76.0 93.3 L80.0 95.2 L84.0 96.8 L88.0 98.6 L92.0 100.6 L96.0 102.9 L100.0 105.4 L104.0 108.1 L108.0 110.7 L112.0 113.0 L116.0 114.8 L120.0 116.0 L124.0 116.5 L128.0 116.4 L132.0 116.0 L136.0 115.6 L140.0 115.4 L144.0 115.6 L148.0 116.5 L152.0 118.1 L156.0 120.3 L160.0 123.1 L164.0 126.1 L168.0 129.2 L172.0 132.0 L176.0 134.6 L180.0 136.7 L184.0 138.4 L188.0 139.9 L192.0 141.3 L196.0 142.9 L200.0 144.7 L204.0 146.9 L208.0 149.5 L212.0 152.3 L216.0 155.2 L220.0 157.9 L224.0 160.3 L228.0 162.0 L232.0 163.1 L236.0 163.5 L240.0 163.4 L244.0 162.8 L248.0 162.2 L252.0 161.6 L256.0 161.4 L260.0 161.5 L264.0 162.1 L268.0 163.2 L272.0 164.5 L276.0 165.8 L280.0 167.1 L284.0 168.2 L288.0 169.0 L292.0 169.6 L296.0 169.9 L300.0 170.3 L304.0 170.7 L308.0 171.5 L312.0 172.8 L316.0 174.5 L320.0 176.7 L324.0 179.1 L328.0 181.7 L332.0 184.2 L336.0 186.3 L340.0 188.1 L344.0 189.3 L348.0 190.0 L352.0 190.3 L356.0 190.3 L360.0 190.2 L364.0 190.2 L368.0 190.4 L372.0 190.8 L376.0 191.4 L380.0 192.2 L384.0 193.0 L388.0 193.8 L392.0 194.2 L396.0 194.4 L400.0 194.3 L404.0 193.9 L408.0 193.3 L412.0 192.8 L416.0 192.5 L420.0 192.5 L424.0 192.9 L428.0 193.8 L432.0 195.0 L436.0 196.6 L440.0 198.2 L444.0 199.9 L448.0 201.4 L452.0 202.6 L456.0 203.5 L460.0 204.1 L464.0 204.6 L468.0 204.9 L472.0 205.2 L476.0 205.7 L480.0 206.4 L484.0 207.2 L488.0 208.2 L492.0 209.2 L496.0 210.1 L500.0 210.8 L504.0 211.2 L508.0 211.3 L512.0 211.1 L516.0 210.6 L520.0 210.0 L524.0 209.4 L528.0 208.8 L532.0 208.5 L536.0 208.5 L540.0 208.8 L544.0 209.3 L548.0 210.0 L552.0 210.8 L556.0 211.6 L560.0 212.2 L564.0 212.7 L568.0 213.0 L572.0 213.2 L576.0 213.3 L580.0 213.5 L584.0 213.9 L588.0 214.4 L592.0 215.0 L596.0 215.9 L600.0 216.9 L604.0 217.8 L608.0 218.7 L612.0 219.5 L616.0 220.0 L620.0 220.2 L624.0 220.2 L628.0 220.1 L632.0 219.8 L636.0 219.5 L640.0 219.3 L644.0 219.2 L648.0 219.2 L652.0 219.4 L656.0 219.7 L660.0 220.0 L664.0 220.3 L668.0 220.5 L672.0 220.7 L676.0 220.7 L680.0 220.7 L684.0 220.6 L688.0 220.5 L692.0 220.5 L696.0 220.6 L700.0 220.8 L704.0 221.2 L708.0 221.7 L712.0 222.3 L716.0 222.9 L720.0 223.5 L724.0 224.0 L728.0 224.3 L732.0 224.5 L736.0 224.7 L740.0 224.7 L744.0 224.7 L748.0 224.8 L752.0 224.8 L756.0 224.9 L760.0 225.1 L764.0 225.3 L768.0 225.5 L772.0 225.7 L776.0 225.9 L780.0 226.0 L784.0 226.1 L788.0 226.1 L792.0 226.1 L796.0 226.0 L800.0 226.0 L804.0 226.0 L808.0 226.1 L812.0 226.3 L816.0 226.4 L820.0 226.6 L824.0 226.8 L828.0 227.0 L832.0 227.2 L836.0 227.4 L840.0 227.5 L844.0 227.6 L848.0 227.7 L852.0 227.8 L856.0 227.9 L860.0 228.0" fill="none" stroke="url(#stroke)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" class="line"/>
+  <g class="cp" style="animation-delay:0.53s">
+    <line x1="130" y1="122.3" x2="130" y2="246" stroke="#4A3F78" stroke-dasharray="2 4"/>
+    <circle cx="130" cy="116.3" r="5.5" fill="#EDE7FF" stroke="#1D1735" stroke-width="3"/>
+    <text x="130" y="274" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">Joined VIT Vellore</text>
+    <text x="130" y="293" font-size="12.5" class="muted" text-anchor="middle">B.Tech, CSE</text>
+  </g>
+  <g class="cp" style="animation-delay:0.96s">
+    <line x1="262" y1="167.8" x2="262" y2="246" stroke="#4A3F78" stroke-dasharray="2 4"/>
+    <circle cx="262" cy="161.8" r="5.5" fill="#EDE7FF" stroke="#1D1735" stroke-width="3"/>
+    <text x="262" y="274" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">First ML models</text>
+    <text x="262" y="293" font-size="12.5" class="muted" text-anchor="middle">classifiers and EDA</text>
+  </g>
+  <g class="cp" style="animation-delay:1.39s">
+    <line x1="394" y1="200.4" x2="394" y2="246" stroke="#4A3F78" stroke-dasharray="2 4"/>
+    <circle cx="394" cy="194.4" r="5.5" fill="#EDE7FF" stroke="#1D1735" stroke-width="3"/>
+    <text x="394" y="274" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">Technical head</text>
+    <text x="394" y="293" font-size="12.5" class="muted" text-anchor="middle">AI/ML Club, VIT</text>
+  </g>
+  <g class="cp" style="animation-delay:1.81s">
+    <line x1="526" y1="215.1" x2="526" y2="246" stroke="#4A3F78" stroke-dasharray="2 4"/>
+    <circle cx="526" cy="209.1" r="5.5" fill="#EDE7FF" stroke="#1D1735" stroke-width="3"/>
+    <text x="526" y="274" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">250+ students</text>
+    <text x="526" y="293" font-size="12.5" class="muted" text-anchor="middle">mentored</text>
+  </g>
+  <g class="cp" style="animation-delay:2.24s">
+    <line x1="658" y1="225.8" x2="658" y2="246" stroke="#4A3F78" stroke-dasharray="2 4"/>
+    <circle cx="658" cy="219.8" r="5.5" fill="#EDE7FF" stroke="#1D1735" stroke-width="3"/>
+    <text x="658" y="274" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">1st place, best pitch</text>
+    <text x="658" y="293" font-size="12.5" class="muted" text-anchor="middle">Algo Arena hackathon</text>
+  </g>
+  <g class="cp" style="animation-delay:2.67s">
+    <line x1="790" y1="232.1" x2="790" y2="246" stroke="#4A3F78" stroke-dasharray="2 4"/>
+    <circle cx="790" cy="226.1" r="7" fill="none" stroke="#FFD166" stroke-width="2" class="ring"/><circle cx="790" cy="226.1" r="5.5" fill="#FFD166" stroke="#1D1735" stroke-width="3"/>
+    <text x="790" y="274" font-size="13.5" font-weight="700" fill="#FFD166" text-anchor="middle">Shipped The AI</text>
+    <text x="790" y="293" font-size="12.5" class="muted" text-anchor="middle">Group Chat to users</text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="t d">
+  <title id="t">The AI Group Chat</title>
+  <desc id="d">A question goes to GPT, Claude, Gemini and DeepSeek in parallel. A judge solves it independently, weighs the panel as evidence and returns the answer.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .ink { fill: #EDE7FF; } .muted { fill: #9C93C2; }
+    .flow { stroke-dasharray: 3 7; animation: flow 1.4s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#6E63A3"/></marker></defs>
+  <rect width="900" height="320" rx="22" fill="#1D1735"/>
+  <text x="44" y="78" font-size="30" font-weight="800" class="ink" letter-spacing="-.5">The AI Group Chat</text>
+  <text x="44" y="116" font-size="16" class="ink">Four models argue. A judge decides.</text>
+  <text x="44" y="146" font-size="14.5" class="muted">Ask a question or snap a photo of a paper. Four</text>
+  <text x="44" y="168" font-size="14.5" class="muted">LLMs solve it in parallel, then a separate judge works</text>
+  <text x="44" y="190" font-size="14.5" class="muted">it out independently and treats them as evidence.</text>
+  <g transform="translate(44 228)">
+    <rect width="150" height="28" rx="8" fill="#FFD166"/><text x="75" y="19" font-size="13" font-weight="700" fill="#2A1F05" text-anchor="middle">Live, paid product</text>
+  </g>
+  <text x="44" y="290" font-size="13" class="muted">Async multi-model inference, multimodal input, LLM-as-judge</text>
+  <path d="M536 160 C570 160, 540 70, 584 70" fill="none" stroke="#7FE0C2" stroke-width="2" class="flow" opacity=".8"/><path d="M676 70 C720 70, 690 160, 728 160" fill="none" stroke="#7FE0C2" stroke-width="2" class="flow" opacity=".8"/><path d="M536 160 C570 160, 540 130, 584 130" fill="none" stroke="#F7B58C" stroke-width="2" class="flow" opacity=".8"/><path d="M676 130 C720 130, 690 160, 728 160" fill="none" stroke="#F7B58C" stroke-width="2" class="flow" opacity=".8"/><path d="M536 160 C570 160, 540 190, 584 190" fill="none" stroke="#8FB3FF" stroke-width="2" class="flow" opacity=".8"/><path d="M676 190 C720 190, 690 160, 728 160" fill="none" stroke="#8FB3FF" stroke-width="2" class="flow" opacity=".8"/><path d="M536 160 C570 160, 540 250, 584 250" fill="none" stroke="#B79CFF" stroke-width="2" class="flow" opacity=".8"/><path d="M676 250 C720 250, 690 160, 728 160" fill="none" stroke="#B79CFF" stroke-width="2" class="flow" opacity=".8"/>
+  <path d="M812 160 L842 160" stroke="#FFD166" stroke-width="2.5" class="flow"/>
+  <rect x="464.0" y="143.0" width="72" height="34" rx="17.0" fill="#EDE7FF"/><text x="500" y="165" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Q</text>
+  <rect x="584.0" y="53.0" width="92" height="34" rx="17.0" fill="#7FE0C2"/><text x="630" y="75" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">GPT</text><rect x="584.0" y="113.0" width="92" height="34" rx="17.0" fill="#F7B58C"/><text x="630" y="135" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Claude</text><rect x="584.0" y="173.0" width="92" height="34" rx="17.0" fill="#8FB3FF"/><text x="630" y="195" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Gemini</text><rect x="584.0" y="233.0" width="92" height="34" rx="17.0" fill="#B79CFF"/><text x="630" y="255" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">DeepSeek</text>
+  <rect x="728.0" y="138.0" width="84" height="44" rx="22.0" fill="#FFD166"/><text x="770" y="165" font-size="15" font-weight="700" fill="#1B1530" text-anchor="middle">Judge</text>
+  <circle cx="862" cy="160" r="16" fill="none" stroke="#FFD166" stroke-width="2.5"/>
+  <path d="M855 160 l5 5 l9 -10" fill="none" stroke="#FFD166" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="320" viewBox="0 0 440 320" role="img" aria-labelledby="t d">
+  <title id="t">Data Analyst Agent</title>
+  <desc id="d">A LangGraph agent writes Python for your question, runs it in a local sandbox and returns charts, a report and a notebook.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .ink { fill: #EDE7FF; } .muted { fill: #9C93C2; }
+    .flow { stroke-dasharray: 3 7; animation: flow 1.4s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#6E63A3"/></marker></defs>
+  <rect width="440" height="320" rx="22" fill="#1D1735"/>
+  <text x="36" y="66" font-size="24" font-weight="800" class="ink" letter-spacing="-.4">Data Analyst Agent</text>
+  <text x="36" y="102" font-size="14.5" class="muted">Upload a CSV and ask a question. Get charts,</text><text x="36" y="124" font-size="14.5" class="muted">a short report and a notebook back.</text>
+  <path d="M132 210 L164 210" stroke="#6E63A3" stroke-width="2" marker-end="url(#a)" class="flow"/><path d="M272 210 L304 210" stroke="#6E63A3" stroke-width="2" marker-end="url(#a)" class="flow"/><path d="M350 188 C320 148, 260 148, 230 186" fill="none" stroke="#6E63A3" stroke-width="2" marker-end="url(#a)" class="flow"/><text x="290.0" y="152" font-size="11.5" class="muted" text-anchor="middle">retry on error</text><rect x="28.0" y="193.0" width="104" height="34" rx="17.0" fill="#EDE7FF"/><text x="80" y="215" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Your CSV</text><text x="80" y="250" font-size="12.5" class="muted" text-anchor="middle">plain-English ask</text><rect x="168.0" y="193.0" width="104" height="34" rx="17.0" fill="#B79CFF"/><text x="220" y="215" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Agent</text><text x="220" y="250" font-size="12.5" class="muted" text-anchor="middle">writes Python</text><rect x="308.0" y="193.0" width="104" height="34" rx="17.0" fill="#7FE0C2"/><text x="360" y="215" font-size="14" font-weight="700" fill="#1B1530" text-anchor="middle">Sandbox</text><text x="360" y="250" font-size="12.5" class="muted" text-anchor="middle">runs it, charts</text>
+  <text x="36" y="292" font-size="12.5" class="muted">LangGraph, LangChain, automated EDA</text>
+</svg>
